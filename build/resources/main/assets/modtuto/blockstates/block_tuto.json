@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"normal": {
+			"model": "modtuto:block_tuto"
+		}
+	}
+}
